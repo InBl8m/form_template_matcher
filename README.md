@@ -27,5 +27,5 @@
 5. **Тестирование**:
     После запуска контейнера выполните тестовый скрипт:
     ```bash
-    python test_requests.py
+    python3 test_requests.py
     ```
